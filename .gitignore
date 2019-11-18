@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# Custom
+.vscode
+WIDER_train/
+
 # Distribution / packaging
 .Python
 build/
